@@ -2,7 +2,7 @@ import React from 'react'
 import { BsYoutube, BsGithub, BsLinkedin, BsTwitter } from 'react-icons/bs'
 import Image from 'next/image'
 // import aarya from "/Users/thakoraarya/Documents/clg codes PU/MERN/rectjs/portfolio/pages/myMemoji.jpeg"
-import aarya from '/Users/thakoraarya/Documents/clg codes PU/MERN/rectjs/portfolio/pages/'
+import aarya from '/Users/thakoraarya/Documents/clg codes PU/MERN/rectjs/portfolio/public/myMemoji.jpeg'
 
 
 const LinkNMemoji = () => {
